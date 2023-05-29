@@ -1,12 +1,19 @@
-body {
-    background-color: #FFFFFF;
+body{
+    background-color: #faf0e6;/*linen*/
     font-family: Arial,Helvetica,sans-serif;
     font-size: 22px;
 }
 
 h1 {
     text-align:center;
-    color:rgb(255,99,71);
-    border-style: double;
-    border-color: maroon;
+    background-color:rgb(255,91,71);
+    color: #FFFFFF; /*withe*/
+    border-style: solid ;
+    border-radius: 16px;
+    border-width:3px;
+    border-color: hsl(136, 100%, 17%);
+}
+
+a {
+    color:green;
 }
